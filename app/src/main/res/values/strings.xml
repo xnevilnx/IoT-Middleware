@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exp1</string>
+
+    <string name="room_url">http://140.127.74.190:8080/exp1/room_data.json</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="roomTitle">Rooms</string>
+    <string name="settingTitle">Settings</string>
+    <string name="dataanalysisTitle">Data Analysis</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_7ca2e72ee1bdaa07a61112b361fe9dc5d5455115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_279e8b9d9bc7fc0d30d14d5e8ad3aa7f5cf6a921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_96b13f0b692d6a9858c0201125fd62ecd4fa2124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_13c837f6dcac9d5ebc8402b1a11c469d1465d478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e472d2b5ca9596b02c982227b93f2ae5c12a9b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_da28a9c4ed7b3f93a6e8d4d894df0a3cbf73dcce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_84813498cd17809bb648d30dd413af5ed04a42a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_3feeb45287f9e53ee74047f8de32ead1533ec82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9a5453902eb5f5b153d4211d1ebd56718f6ca103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_dbce97398f063d0514e92d7f2eedb327d67febf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_91e990e573e4865eec71a36c2a929e2a2bedb993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\okio-1.4.0_304f9a82392b12d4d96ae0366961b96f2711ebfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_142433df271fbf8d032c22061f786b149e71ff35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_13350f1dc85b13c27cdcb80f8d283350b4975365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3c1df9e5d3b6b2e479a7e94891735569586d3b24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e1c9c2cfde215865cb65ebd52aa9d4df2d372a1">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run_0582d0b941113b301af322ca05f55ebb478f055d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f195c843f4f5dd6c1a9f0cc50b1ad74c73272dd9">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_873a36776fe001d66142c2dc316b096e2271a603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_bfd5fface35bfe2da5dfd3e539e68d1b9f7d4687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_bc4eebe8318f3b297fd9fa70efb7736bacb6e1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\gson-2.8.0_f140a4afde206a37a2c6ab7381bcb6e9d9477959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_52e175e73691889ea0c12ce740510aa9af6524f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\library-1.0.19_6e43b1492aa67efd387bf917b9d9df2daae001e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Pawl\Desktop\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d0ee90bf87531ed27863b3c7b558262c9dfb0ca6.jar" />
+    </item>
+
+</items>
